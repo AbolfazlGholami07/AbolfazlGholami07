@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abolfazl Gholami 👋
 
-<!--
-**AbolfazlGholami07/AbolfazlGholami07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student | Python Developer | Robotics Competitor
 
-Here are some ideas to get you started:
+## About Me
+- 🤖 Ranked **3rd at Iran Open International Robotics Competition** (RoboCup Soccer Robot)
+- 🏆 Qualified for the **RoboCup World Championship**
+- 🎮 Judge at **BBAZ National Game Development Competition**
+- 🎓 Attended **Sampad (NODET)** — Iran's top academic high school program
+- 📍 Tehran, Iran
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python · (learning more...)
+- **Robotics:** Autonomous robot programming · RoboCup framework
+- **Tools:** Git · VS Code · Linux
+
+## Currently
+- 🌱 Starting university — building my Python skills
+- 🎯 Working toward graduate studies abroad
+- 📚 Planning to take CS50P and CS50AI
+
+## Connect
+- 📧 Abolfazl.Gholami086@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/abolfazl-gholami)
+
+---
+*Always learning. Always building.*
