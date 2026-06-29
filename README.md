@@ -1,27 +1,32 @@
-# Hi, I'm Abolfazl Gholami 👋
+# Hi, I'm Abolfazl 👋
 
-CS Student | Python Developer | Robotics Competitor
+Software Developer, Robotics Engineer and Founder of Xoria.
 
 ## About Me
-- 🤖 Ranked **3rd at Iran Open International Robotics Competition** (RoboCup Soccer Robot)
-- 🏆 Qualified for the **RoboCup World Championship**
-- 🎮 Judge at **BBAZ National Game Development Competition**
-- 🎓 Attended **Sampad (NODET)** — Iran's top academic high school program
-- 📍 Tehran, Iran
 
-## Skills
-- **Languages:** Python · (learning more...)
-- **Robotics:** Autonomous robot programming · RoboCup framework
-- **Tools:** Git · VS Code · Linux
+- 🤖 Robotics competitor
+- 🏆 3rd Place - Iran Open Robotics Competition
+- 🌍 RoboCup World Championship Qualifier
+- ⚖ National Game Development Judge
+- 🐍 Python Developer
+- 🎮 Learning Game Development with Godot
 
-## Currently
-- 🌱 Starting university — building my Python skills
-- 🎯 Working toward graduate studies abroad
-- 📚 Planning to take CS50P and CS50AI
+## Current Goals
 
-## Connect
-- 📧 Abolfazl.Gholami086@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/abolfazl-gholami)
+- Build Xoria into a software company
+- Improve my backend development skills
+- Build high-quality software products
+- Improve my English
 
----
-*Always learning. Always building.*
+## Technologies
+
+- Python
+- GDScript
+- Git
+- Linux
+
+## Contact
+
+LinkedIn
+
+Email
